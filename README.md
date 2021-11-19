@@ -20,3 +20,8 @@ Primer:
 - SHOW PRODUCT -> cRud (veure un producte)
 - Informació del producte: title, description, price, photo, stock
 - Vista: CTA -> Call To Action -> Boto destacat amb la acció més important -> COMPRAR
+
+
+PRODUCTE DIGITAL:
+- NO cal stock, no cal delivery
+- Exemple. Un fitxer zip 
