@@ -23,7 +23,7 @@ Un altre procediment:
 
 - Bourigue, Jamal | TODO
 - Doblado Carles, Sergi | https://github.com/sergidoblado/TODO
-- Forès Garcia, Jordi : https://github.com/xThalach | TODO
+- Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/jordifores_ecommerce | TODO
 - Guerrero Gonzales, Angel J. | https://github.com/angelguerrero-glitch
 - Marcos Borràs, Tània | https://github.com/taniamarcos
 - Manel Piñol Manrique | TODO
@@ -34,7 +34,7 @@ Un altre procediment:
 
 - Bourigue, Jamal | TODO
 - Doblado Carles, Sergi | https://github.com/sergidoblado/TODO
-- Forès Garcia, Jordi : https://github.com/xThalach | TODO
+- Forès Garcia, Jordi : https://botiga.jordifores.me/products https://botiga.jordifores.me/
 - Guerrero Gonzales, Angel J. | https://github.com/angelguerrero-glitch
 - Marcos Borràs, Tània | https://github.com/taniamarcos
 - Manel Piñol Manrique | TODO
