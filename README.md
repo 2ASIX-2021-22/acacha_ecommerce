@@ -10,6 +10,15 @@ https://tubeme.acacha.org/botiga | https://www.youtube.com/playlist?list=PLyasg1
 
 ![image](https://user-images.githubusercontent.com/4015406/140644527-e186bf90-e556-4970-98ed-3f00c5f1af11.png)
 
+# Com fer un PR (Pull Request)
+
+Directament des de Github
+
+- Feu click a edit del fitxer README.
+
+Un altre procediment:
+- https://blog.desdelinux.net/ca/tutorial-simple-primer-pr-pull-request/
+
 # Codi font dels alumnes
 
 - Bourigue, Jamal | TODO
