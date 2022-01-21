@@ -55,6 +55,12 @@ Fer: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
 
 # Projectes en explotació dels alumnes (Exercici Vue)
 
+Utilitzeu la web render.com. Teniu un exemple a
+
+https://github.com/acacha/casteachingIonic#com-publicar-els-projectes
+
+NOTA: cal que canvieu el nom de l'exemple i adapteu al vostre cas.
+
 - Bourigue, Jamal | TODO
 - Doblado Carles, Sergi | https://github.com/sergidoblado/TODO
 - Forès Garcia, Jordi : https://github.com/xThalach | TODO
