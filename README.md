@@ -23,7 +23,7 @@ Un altre procediment:
 
 - Bourigue, Jamal | TODO
 - Doblado Carles, Sergi | https://github.com/sergidoblado/TODO
-- Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/jordifores_ecommerce | TODO
+- Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/jordifores_ecommerce
 - Guerrero Gonzales, Angel J. | https://github.com/2ASIX-2021-22/angelguerrero-glitch_ecommerce/tree/production
 - Marcos Borràs, Tània | https://github.com/taniamarcos
 - Manel Piñol Manrique | https://github.com/2ASIX-2021-22/manel
@@ -47,7 +47,7 @@ Fer: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
 
 - Bourigue, Jamal | TODO
 - Doblado Carles, Sergi | https://github.com/sergidoblado/TODO
-- Forès Garcia, Jordi : https://github.com/xThalach | TODO
+- Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/Vue_JordiFor-s 
 - Guerrero Gonzales, Angel J. | https://github.com/angelguerrero-glitch
 - Marcos Borràs, Tània | https://github.com/taniamarcos
 - Manel Piñol Manrique | TODO
