@@ -50,7 +50,7 @@ Fer: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
 - Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/Vue_JordiFor-s 
 - Guerrero Gonzales, Angel J. | https://github.com/angelguerrero-glitch
 - Marcos Borràs, Tània | https://github.com/taniamarcos
-- Manel Piñol Manrique | TODO
+- Manel Piñol Manrique | https://github.com/2ASIX-2021-22/exercicis_VUE_Manel.git
 - Zaragoza Blanch, Maria Cinta | TODO
 
 # Projectes en explotació dels alumnes (Exercici Vue)
