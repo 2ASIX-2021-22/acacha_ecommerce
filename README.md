@@ -63,7 +63,7 @@ NOTA: cal que canvieu el nom de l'exemple i adapteu al vostre cas.
 
 - Bourigue, Jamal | TODO
 - Doblado Carles, Sergi | https://github.com/sergidoblado/TODO
-- Forès Garcia, Jordi : https://github.com/xThalach | TODO
+- Forès Garcia, Jordi : https://vue-jordifores.onrender.com/ 
 - Guerrero Gonzales, Angel J. | https://github.com/angelguerrero-glitch
 - Marcos Borràs, Tània | https://github.com/taniamarcos
 - Manel Piñol Manrique | TODO
