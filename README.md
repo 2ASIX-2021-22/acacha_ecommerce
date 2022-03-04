@@ -21,24 +21,20 @@ Un altre procediment:
 
 # Codi font dels alumnes
 
-- Bourigue, Jamal | TODO
-- Doblado Carles, Sergi | https://github.com/sergidoblado/TODO
 - Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/jordifores_ecommerce
 - Guerrero Gonzales, Angel J. | https://github.com/2ASIX-2021-22/angelguerrero-glitch_ecommerce/tree/production
-- Marcos Borràs, Tània | https://github.com/taniamarcos
-- Manel Piñol Manrique | https://github.com/2ASIX-2021-22/manel
-- Zaragoza Blanch, Maria Cinta | TODO
+- Marcos Borràs, Tània | 
+- Manel Piñol Manrique |
+- Zaragoza Blanch, Maria Cinta | 
 - Tur Badenas, Sergi | https://github.com/2ASIX-2021-22/acacha_ecommerce
 
 # Projectes en explotació dels alumnes
 
-- Bourigue, Jamal | TODO
-- Doblado Carles, Sergi | https://github.com/sergidoblado/TODO
-- Forès Garcia, Jordi : https://botiga.jordifores.me/products https://botiga.jordifores.me/
+- Forès Garcia, Jordi : https://botiga.jordifores.me/products | https://botiga.jordifores.me/
 - Guerrero Gonzales, Angel J. | https://botiga.angelguerrero.me/products/
 - Marcos Borràs, Tània | https://github.com/taniamarcos
 - Manel Piñol Manrique | https://botiga.manelpinol.me | https://botiga.manelpinol.me/products 
-- Zaragoza Blanch, Maria Cinta | TODO
+- Zaragoza Blanch, Maria Cinta 
 - Tur Badenas, Sergi | https://github.com/2ASIX-2021-22/acacha_ecommerce
 
 # Codi font dels alumnes (exercicis VUE)
