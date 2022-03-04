@@ -32,7 +32,7 @@ Un altre procediment:
 
 - Forès Garcia, Jordi : https://botiga.jordifores.me/products | https://botiga.jordifores.me/
 - Guerrero Gonzales, Angel J. | https://botiga.angelguerrero.me/products/
-- Marcos Borràs, Tània | https://github.com/taniamarcos
+- Marcos Borràs, Tània | 
 - Manel Piñol Manrique | https://botiga.manelpinol.me | https://botiga.manelpinol.me/products 
 - Zaragoza Blanch, Maria Cinta 
 - Tur Badenas, Sergi | https://github.com/2ASIX-2021-22/acacha_ecommerce
