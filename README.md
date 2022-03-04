@@ -24,7 +24,7 @@ Un altre procediment:
 - Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/jordifores_ecommerce
 - Guerrero Gonzales, Angel J. | https://github.com/2ASIX-2021-22/angelguerrero-glitch_ecommerce/tree/production
 - Marcos Borràs, Tània | 
-- Manel Piñol Manrique |
+- Manel Piñol Manrique | https://github.com/2ASIX-2021-22/manel.git
 - Zaragoza Blanch, Maria Cinta | 
 - Tur Badenas, Sergi | https://github.com/2ASIX-2021-22/acacha_ecommerce
 
