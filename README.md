@@ -43,7 +43,7 @@ Fer: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
 
 - Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/Vue_JordiFor-s 
 - Guerrero Gonzales, Angel J. | https://github.com/2ASIX-2021-22/Vue_Angel
-- Marcos Borràs, Tània | 
+- Marcos Borràs, Tània | https://github.com/taniamarcos/vue_marcostania
 - Manel Piñol Manrique | https://github.com/2ASIX-2021-22/exercicis_VUE_Manel
 - Zaragoza Blanch, Maria Cinta | 
 
@@ -57,7 +57,7 @@ NOTA: cal que canvieu el nom de l'exemple i adapteu al vostre cas.
 
 - Forès Garcia, Jordi : https://vue-jordifores.onrender.com/ 
 - Guerrero Gonzales, Angel J. | https://vue-angelj.onrender.com/ || https://2asix-2021-22.github.io/Vue_Angel/ 
-- Marcos Borràs, Tània | 
+- Marcos Borràs, Tània | https://vue-marcostania.onrender.com
 - Manel Piñol Manrique | https://exercicis-vue-manel.onrender.com || https://2asix-2021-22.github.io/exercicis_VUE_Manel/
 - Zaragoza Blanch, Maria Cinta | 
 
