@@ -23,7 +23,7 @@ Un altre procediment:
 
 - Forès Garcia, Jordi : https://github.com/2ASIX-2021-22/jordifores_ecommerce
 - Guerrero Gonzales, Angel J. | https://github.com/2ASIX-2021-22/angelguerrero-glitch_ecommerce/tree/production
-- Marcos Borràs, Tània | 
+- Marcos Borràs, Tània | https://github.com/taniamarcos/laravel_jetstream 
 - Manel Piñol Manrique | https://github.com/2ASIX-2021-22/manel.git
 - Zaragoza Blanch, Maria Cinta | 
 - Tur Badenas, Sergi | https://github.com/2ASIX-2021-22/acacha_ecommerce
@@ -32,7 +32,7 @@ Un altre procediment:
 
 - Forès Garcia, Jordi : https://botiga.jordifores.me/products | https://botiga.jordifores.me/
 - Guerrero Gonzales, Angel J. | https://botiga.angelguerrero.me/products/
-- Marcos Borràs, Tània | 
+- Marcos Borràs, Tània | http://botiga.tania.me/products
 - Manel Piñol Manrique | https://botiga.manelpinol.me | https://botiga.manelpinol.me/products 
 - Zaragoza Blanch, Maria Cinta 
 - Tur Badenas, Sergi | https://github.com/2ASIX-2021-22/acacha_ecommerce
